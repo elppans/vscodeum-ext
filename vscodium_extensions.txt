@@ -11,12 +11,14 @@ mhutchie.git-graph
 mkhl.shfmt
 ms-ceintl.vscode-language-pack-pt-br
 naumovs.color-highlight
-nonoroazoro.syncing
 oderwat.indent-rainbow
 remisa.shellman
 stylelint.vscode-stylelint
 timonwong.shellcheck
 usernamehw.errorlens
-yokowasis.sync
 zokugun.cron-tasks
-zokugun.sync-settings
+cweijan.vscode-ssh
+github.vscode-pull-request-github
+jdevs.remote-development-ts
+redhat.vscode-xml
+rintoj.json-organizer
