@@ -17,7 +17,6 @@ stylelint.vscode-stylelint
 timonwong.shellcheck
 usernamehw.errorlens
 zokugun.cron-tasks
-cweijan.vscode-ssh
 github.vscode-pull-request-github
 jdevs.remote-development-ts
 redhat.vscode-xml
