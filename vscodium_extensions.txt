@@ -21,3 +21,4 @@ github.vscode-pull-request-github
 jdevs.remote-development-ts
 redhat.vscode-xml
 rintoj.json-organizer
+ms-python.black-formatter
