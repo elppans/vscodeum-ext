@@ -26,6 +26,7 @@ As extensões listadas focam em melhoria de produtividade, qualidade de código 
 | `naumovs.color-highlight` | Destaca códigos de cores (hex, rgb) no editor. |
 | `oderwat.indent-rainbow` | Colore a indentação para facilitar a leitura de blocos aninhados. |
 | `ms-ceintl.vscode-language-pack-pt-br` | Tradução da interface do VSCodium para Português Brasileiro. |
+>Ao instalar o pacote de linguagem, deve copiar o arquivo `argv.json` para o diretório `"$HOME"/.vscode-oss`
 
 #### Shell Scripting e Automação
 
